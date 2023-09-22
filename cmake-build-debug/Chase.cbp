@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chase"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\Library\;CMake Files\..\..\..\..\Library\Frameworks\;CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\;CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\Resources\;CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CatChase">
+				<Option output="/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/CatChase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Frameworks/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 CatChase"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CatChase/fast">
+				<Option output="/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/CatChase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Frameworks/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 CatChase/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kathleennguyen/CLionProjects/Catch/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Animation.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Animation.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Background.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Background.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Blue_Mushroom.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Blue_Mushroom.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Button.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Button.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/CatchGame.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/CatchGame.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/EndScreen.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/EndScreen.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/FallingObject.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/FallingObject.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/FallingObjects.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/FallingObjects.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/File.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Files.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Files.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Gauge.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Gauge.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Green_Mushroom.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Green_Mushroom.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/LinkedList.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/LinkedList.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Mega_Mushroom.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Mega_Mushroom.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Node.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/ObjectCategory.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/ObjectName.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Platform.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Platform.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Platforms.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Platforms.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Player.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Player.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Poison_Mushroom.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Poison_Mushroom.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/PowerUp.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/PowerUp.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/PowerUpDisplay.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/PowerUpDisplay.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Queue.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Queue.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Red_Mushroom.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Red_Mushroom.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Score.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Score.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Stack.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/Stack.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/State.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/States.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/States.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/TitleScreen.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/TitleScreen.h">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/main.cpp">
+			<Option target="CatChase"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+		<Unit filename="/Users/kathleennguyen/CLionProjects/Catch/../../../../Library/Frameworks/SFML.framework/Resources/CMake/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Library\Frameworks\SFML.framework\Resources\CMake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
